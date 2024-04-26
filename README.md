@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Laravel | CodeIginiter | PHP**
+- 🌱 I’m currently learning **React JS | Express JS | Vue JS**
 
 - 👨‍💻 All of my projects are available at [https://abdul-lambada.github.io/web-portofolio/](https://abdul-lambada.github.io/web-portofolio/)
 
