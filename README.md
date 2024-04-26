@@ -1,5 +1,4 @@
 <h1 align="center">Hallo 👋, Saya Abdul Kholik</h1>
-<h3 align="center">Seorang Pengembang Web dari Majalengka</h3>
 <img akign="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" />
 
 
