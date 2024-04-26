@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Lambada</h1>
-<img akign="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" />
+<img akign="center" alt="Coding" width="100%" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-lambada&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-lambada" /> </p>
