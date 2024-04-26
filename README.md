@@ -29,6 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-lambada&show_icons=true&locale=en&layout=compact" alt="abdul-lambada" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-lambada&show_icons=true&locale=en" alt="abdul-lambada" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-lambada&" alt="abdul-lambada" /></p>
