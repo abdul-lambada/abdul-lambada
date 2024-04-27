@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Lambada</h1>
-<img akign="right" alt="Coding" width="50%" src="https://paginawebprofesional.es/wp-content/uploads/2022/06/disenador-web-3.gif" />
+<img akign="right" alt="Coding" width="35%" src="https://paginawebprofesional.es/wp-content/uploads/2022/06/disenador-web-3.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-lambada&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-lambada" /> </p>
