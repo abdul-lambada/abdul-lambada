@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on several exciting projects, including ([News App](https://github.com/abdul-lambada/News-App.git)) and [Web Kas](https://github.com/abdul-lambada/website-kas.git).
-- 🌱 I’m currently learning advanced Python techniques and diving deep into the world of data science.
+- 🌱 I’m currently Full Stack Javascript techniques and diving deep into the world of data science.
 - 👯 I’m looking to collaborate on open source projects related to web development and machine learning.
 - 💬 Ask me about anything related to Python, JavaScript, and web development.
 - 📫 How to reach me: [Abdul Lambada](mailto:engineertekno@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-kholik-lambada/).
