@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 Here are some of my top projects:
 
-- ([News App](https://github.com/abdul-lambada/News-App.git)) - Tugas Akhir dari pelatihan membuat webiste News Apps dengan laravel dan Tailwind.
+- [News App](https://github.com/abdul-lambada/News-App.git) - Tugas Akhir dari pelatihan membuat webiste News Apps dengan laravel dan Tailwind.
 - [Web Kas](https://github.com/abdul-lambada/website-kas.git) - Website untuk Kas Mahasiswa/Siswa SLTA.
 
 Feel free to check out my repositories and contribute if you find something interesting!
