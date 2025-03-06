@@ -35,13 +35,76 @@
 
 ## 📌 Latest Projects
 <div align="center">
-  <a href="https://github.com/abdul-lambada/News-App">
-    <img src="https://repository-images.githubusercontent.com/668452459/2052b1c6-8a3a-4c07-9a25-23b231a0c1b8" width="45%" alt="News App"/>
-  </a>
-  <a href="https://github.com/abdul-lambada/website-kas">
-    <img src="https://repository-images.githubusercontent.com/668451048/837c0b00-3c3b-4d71-83a9-23d2a8c0b422" width="45%" alt="Web Kas"/>
-  </a>
+  <div class="project-card">
+    <a href="https://github.com/abdul-lambada/News-App">
+      <img src="https://via.placeholder.com/600x300.png/0077B5/FFFFFF?text=News+Aggregator+App%0A%0A%20Laravel+•+Tailwind%0A%20Real-time+Updates%0A%20Role+Management" 
+           alt="News App" 
+           class="project-image"/>
+      <div class="overlay">
+        <h3>News Aggregator App</h3>
+        <p>Laravel • Tailwind • REST API</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="https://github.com/abdul-lambada/website-kas">
+      <img src="https://via.placeholder.com/600x300.png/22C55E/FFFFFF?text=Student+Finance+Manager%0A%0A%20PHP+•+Bootstrap%0A%20Transaction+Tracking%0A%20Financial+Reports" 
+           alt="Web Kas" 
+           class="project-image"/>
+      <div class="overlay">
+        <h3>Student Finance Manager</h3>
+        <p>PHP • Bootstrap • MySQL</p>
+      </div>
+    </a>
+  </div>
 </div>
+
+<style>
+.project-card {
+  display: inline-block;
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+  width: 45%;
+  overflow: hidden;
+  position: relative;
+}
+
+.project-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.7);
+  color: white;
+  padding: 15px;
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover .overlay {
+  transform: translateY(0);
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 768px) {
+  .project-card {
+    width: 100%;
+  }
+}
+</style>
 
 ## 📈 Activity
 <p align="center">
