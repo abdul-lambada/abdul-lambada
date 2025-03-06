@@ -1,40 +1,56 @@
+<!-- 
+██╗   ██╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗████████╗
+╚██╗ ██╔╝██╔═══██╗██║   ██║██╔══██╗██║   ██║╚══██╔══╝
+ ╚████╔╝ ██║   ██║██║   ██║██████╔╝██║   ██║   ██║   
+  ╚██╔╝  ██║   ██║██║   ██║██╔══██╗██║   ██║   ██║   
+   ██║   ╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝   ██║   
+   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   
+-->
+
 # Hi there, I'm Abdul Lambada 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-kholik-lambada/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:engineertekno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/abdul_lambada"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-## 🧑‍💻 About Me
+## 🚀 About Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-lambada&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Abdul's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-lambada&theme=radical" alt="Streak Stats"/>
+</p>
 
-- 🔭 I’m currently working on several exciting projects, including [News App](https://github.com/abdul-lambada/News-App.git) and [Web Kas](https://github.com/abdul-lambada/website-kas.git).
-- 🌱 I’m currently Full Stack Javascript techniques and diving deep into the world of data science.
-- 👯 I’m looking to collaborate on open source projects related to web development and machine learning.
-- 💬 Ask me about anything related to Python, JavaScript, and web development.
-- 📫 How to reach me: [Abdul Lambada](mailto:engineertekno@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-kholik-lambada/).
-- ⚡ Fun fact: I love playing chess and solving puzzles!
+- 🔭 Currently building **[News App](https://github.com/abdul-lambada/News-App)** (Laravel + Tailwind) and **[Web Kas](https://github.com/abdul-lambada/website-kas)** (PHP + Bootstrap)
+- 🧠 Learning: Full-Stack JavaScript & Data Science
+- 🤝 Open to collaborating on: Web Development • Machine Learning • Open Source
+- 💡 Fun Fact: Chess enthusiast & Puzzle addict
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,react,nodejs,laravel,bootstrap,tailwind,git,vscode,mysql,mongodb" alt="Tech Stack"/>
+</p>
 
-- Languages: Python, JavaScript, HTML, CSS, PHP
-- Frameworks: React, Node.js, Laravel, CodeIgniter, Bootstrap, Tailwind
-- Tools: Git, VS Code, DBeaver, Laragon,
-- Databases: MySQL, PostgreSQL, MongoDB
+## 📌 Latest Projects
+<div align="center">
+  <a href="https://github.com/abdul-lambada/News-App">
+    <img src="https://repository-images.githubusercontent.com/668452459/2052b1c6-8a3a-4c07-9a25-23b231a0c1b8" width="45%" alt="News App"/>
+  </a>
+  <a href="https://github.com/abdul-lambada/website-kas">
+    <img src="https://repository-images.githubusercontent.com/668451048/837c0b00-3c3b-4d71-83a9-23d2a8c0b422" width="45%" alt="Web Kas"/>
+  </a>
+</div>
 
-## 📈 GitHub Stats
+## 📈 Activity
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abdul-lambada&theme=radical&hide_border=true" alt="Activity Graph"/>
+</p>
 
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-lambada&show_icons=true&theme=radical)
+## 🤝 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-kholik-lambada/">LinkedIn Profile</a> • 
+  <a href="mailto:engineertekno@gmail.com">Send Email</a> • 
+  <a href="https://instagram.com/abdul_lambada">Instagram</a>
+</p>
 
-## 🏆 Top Projects
-
-Here are some of my top projects:
-
-- [News App](https://github.com/abdul-lambada/News-App.git) - Tugas Akhir dari pelatihan membuat webiste News Apps dengan laravel dan Tailwind.
-- [Web Kas](https://github.com/abdul-lambada/website-kas.git) - Website untuk Kas Mahasiswa/Siswa SLTA.
-
-Feel free to check out my repositories and contribute if you find something interesting!
-
-## 📫 Connect with Me
-
-- LinkedIn: [Abdul Lambada](https://www.linkedin.com/in/abdul-kholik-lambada/)
-- Email: [Abdul Lambada](mailto:engineertekno@gmail.com)
-- Instagram: [@abdul_lambada](https://instagram.com/abdul_lambada)
-
-Thank you for visiting my profile! Have a great day! 😊
+✨ Built with ❤️ using Markdown & Shields.io
