@@ -1,63 +1,27 @@
-<!-- 
-██╗   ██╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗████████╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║██╔══██╗██║   ██║╚══██╔══╝
- ╚████╔╝ ██║   ██║██║   ██║██████╔╝██║   ██║   ██║   
-  ╚██╔╝  ██║   ██║██║   ██║██╔══██╗██║   ██║   ██║   
-   ██║   ╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝   ██║   
-   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   
--->
+# 💫 About Me:
+🔭 Currently building News App (Laravel + Tailwind) and Web Kas (PHP + Bootstrap)<br>🧠 Learning: Full-Stack JavaScript & Data Science<br>🤝 Open to collaborating on: Web Development • Machine Learning • Open Source<br>💡 Fun Fact: Chess enthusiast & Puzzle addict
 
-# Hi there, I'm Abdul Lambada 👋
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abdul-kholik-lambada/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-</a>
-  <a href="mailto:engineertekno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://instagram.com/abdul_lambada"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul_lambada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-kholik-67ab09274/) 
 
-## 🚀 About Me
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-lambada&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Abdul's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-lambada&theme=radical" alt="Streak Stats"/>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdul-lambada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdul-lambada&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-lambada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 Currently building **[News App](https://github.com/abdul-lambada/News-App)** (Laravel + Tailwind) and **[Web Kas](https://github.com/abdul-lambada/website-kas)** (PHP + Bootstrap)
-- 🧠 Learning: Full-Stack JavaScript & Data Science
-- 🤝 Open to collaborating on: Web Development • Machine Learning • Open Source
-- 💡 Fun Fact: Chess enthusiast & Puzzle addict
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdul-lambada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,react,nodejs,laravel,bootstrap,tailwind,git,vscode,mysql,mongodb" alt="Tech Stack"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📌 Latest Projects
-<div align="center">
-  <a href="https://github.com/abdul-lambada/News-App">
-    <img src="https://github.com/abdul-lambada/News-App/blob/master/public/images/logo_news.png" 
-         alt="News App" 
-         width="10%"/>
-  </a>
-  
-  <a href="https://github.com/abdul-lambada/website-kas">
-    <img src="https://logodix.com/logo/1958308.png" 
-         alt="Web Kas" 
-         width="10%"/>
-  </a>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdul-lambada&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📈 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-lambada&bg_color=240a18&color=fafafa&line=033aba&point=050000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Activity Graph"/>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=abdul-lambada&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🤝 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-kholik-lambada/">LinkedIn Profile</a> • 
-  <a href="mailto:engineertekno@gmail.com">Send Email</a> • 
-  <a href="https://instagram.com/abdul_lambada">Instagram</a>
-</p>
-
-✨ Built with ❤️ using Markdown & Shields.io
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
