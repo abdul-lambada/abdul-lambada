@@ -50,7 +50,7 @@
 
 ## 📈 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-lambada&bg_color=ffd1e5&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-lambada&bg_color=240a18&color=fafafa&line=033aba&point=050000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Activity Graph"/>
 </p>
 
 ## 🤝 Connect
