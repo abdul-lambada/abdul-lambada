@@ -42,9 +42,9 @@
   </a>
   
   <a href="https://github.com/abdul-lambada/website-kas">
-    <img src="https://via.placeholder.com/600x300.png/22C55E/FFFFFF?text=Student+Finance+Manager%0A%0A%20PHP+•+Bootstrap%0A%20Transaction+Tracking%0A%20Financial+Reports" 
+    <img src="https://logodix.com/logo/1958308.png" 
          alt="Web Kas" 
-         width="45%"/>
+         width="10%"/>
   </a>
 </div>
 
