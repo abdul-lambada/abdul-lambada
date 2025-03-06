@@ -38,7 +38,7 @@
   <a href="https://github.com/abdul-lambada/News-App">
     <img src="https://github.com/abdul-lambada/News-App/blob/master/public/images/logo_news.png" 
          alt="News App" 
-         width="45%"/>
+         width="10%"/>
   </a>
   
   <a href="https://github.com/abdul-lambada/website-kas">
