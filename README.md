@@ -36,7 +36,7 @@
 ## 📌 Latest Projects
 <div align="center">
   <a href="https://github.com/abdul-lambada/News-App">
-    <img src="https://via.placeholder.com/600x300.png/0077B5/FFFFFF?text=News+Aggregator+App%0A%0A%20Laravel+•+Tailwind%0A%20Real-time+Updates%0A%20Role+Management" 
+    <img src="https://github.com/abdul-lambada/News-App/blob/master/public/images/logo_news.png" 
          alt="News App" 
          width="45%"/>
   </a>
