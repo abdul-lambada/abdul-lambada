@@ -11,16 +11,15 @@
 
 - 👯 I’m looking to collaborate on [Absensi Kehadiran Siswa](https://github.com/abdul-lambada/absensi-kehadiran-siswa.git)
 
-- 👨‍💻 All of my projects are available at [https://porto-abdul-kholik.netlify.app/](https://porto-abdul-kholik.netlify.app/)
+- 👨‍💻 All of my projects are available at https://portofolioabdulkholik.vercel.app/.
 
-- 📝 I regularly write articles on [https://porto-abdul-kholik.netlify.app/](https://porto-abdul-kholik.netlify.app/)
+- 📝 I regularly write articles on https://portofolioabdulkholik.vercel.app/
 
 - 💬 Ask me about **PHP, Laravel, Javascript, TypeScript**
 
 - 📫 How to reach me **engineertekno@gmail.com**
 
-- 📄 Know about my experiences [https://porto-abdul-kholik.netlify.app/](https://porto-abdul-kholik.netlify.app/)
-
+- 📄 Know about my experiences https://portofolioabdulkholik.vercel.app/
 - ⚡ Fun fact **I Like to Code Outside While Having Coffee and Relaxing**
 
 ### Blogs posts
