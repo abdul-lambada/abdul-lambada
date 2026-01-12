@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Kholik</h1>
 <h3 align="center">A passionate fullstack Web developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-lambada" alt="abdul-lambada" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/70674976?v=4&size=64" alt="abdul-lambada" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
